@@ -30,7 +30,7 @@ I have monitor devices which are sending me data and I need to **compute the num
 
 ## Solution Description
 
-I created a monitor class to concatenate the properties of each monitor (Name & Measurements), I expected that each measurement would be an integer hence I created measurements as a list of integers to have elasticity in size. I will prompt the user for the number of monitors and also the measurements of each monitor then I will count the number of each measurement and print it to the standard output.
+The index is named *Program.cs*. I created a monitor class to concatenate the properties of each monitor (Name & Measurements), I expected that each measurement would be an integer hence I created measurements as a list of integers to have elasticity in size. I will prompt the user for the number of monitors and also the measurements of each monitor then I will count the number of each measurement and print it to the standard output.
 
 ## Conclusion
 
