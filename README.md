@@ -19,7 +19,7 @@ I have monitor devices which are sending me data and I need to **compute the num
  * monitor2 -> (152, 325)
  * monitor3 -> (1, 2, 5)
 
-**The output should be only 10**
+**The output should be only 9**
  
  2. ***Example 2***
  * monitor1 -> (123 1241 15325 235)
